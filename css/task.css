@@ -1,0 +1,39 @@
+.heading { 
+    color:blue;
+    font-size: 1rem;
+    font-family: Cambria, cursive;
+    text-align:left;
+}
+
+body { 
+    background-color:paleturquoise;
+}
+
+.koostisosad { 
+   font-size:1rem;
+   width:50%;  
+}
+
+.koostisosade-tabel { 
+    color: blue;
+    font-family: 'Courier New', cursive;
+    font-size: 1rem; 
+    text-align: left;
+}
+
+.juhised { 
+   text-align:left;
+   width:50%;
+   font-family:'Courier New',cursive;
+   font-size: 1rem;
+   color:green;
+}
+
+img { 
+    width: 200px;
+}
+
+.footer { 
+color:red;
+font-family:'Courier New',cursice;
+}
